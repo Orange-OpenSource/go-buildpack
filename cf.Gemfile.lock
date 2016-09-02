@@ -9,11 +9,11 @@ GIT
       terminal-table (~> 1.4.5)
 
 GIT
-  remote: https://github.com/cloudfoundry/machete.git
-  revision: 0a96cf194aba38b6c39a4c83ee619a63144711c8
-  tag: v0.0.48
+  remote: https://github.com/orange-cloudfoundry/machete.git
+  revision: 54c596f5e1ac869438ecc6debeca54fbb7f99320
+  tag: v0.0.49
   specs:
-    machete (0.0.48)
+    machete (0.0.49)
       childprocess
       httparty
 
